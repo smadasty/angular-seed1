@@ -1,0 +1,27 @@
+{
+  "name": "angular-sri",
+  "version": "1.0.0",
+  "description": "A starter project for Angular JS",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Angujar",
+    "JS",
+    "NPM",
+    "Package.Json"
+  ],
+  "author": "Srikanth Madishetti",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smadasty/angular-seed1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smadasty/angular-seed1/issues"
+  },
+  "homepage": "https://github.com/smadasty/angular-seed1"
+}
